@@ -52,13 +52,14 @@ Install Python (if not already installed)
 
 Install Matplotlib using:
 
-pip install matplotlib
+"pip install matplotlib"
 
 Open terminal in project folder
 
 Run the program:
 
-python AdvorixInternship_task4.py
+"python AdvorixInternship_task4.py"
+
 📊 Example Data Used
 
 Student Names
