@@ -60,23 +60,27 @@ Run the program:
 
 "python AdvorixInternship_task4.py"
 
+or
+
+"python3 AdvorixInternship_task4.py"
+
 📊 Example Data Used
 
-Student Names
+• Student Names
 
-Subject Names
+• Subject Names
 
-Marks
+• Marks
 
 ✅ Advantages
 
-Helps in better understanding of data
+• Helps in better understanding of data
 
-Improves visualization skills
+• Improves visualization skills
 
-Useful for academic projects
+• Useful for academic projects
 
-Simple and easy to modify
+• Simple and easy to modify
 
 👨‍💻 Author
 
